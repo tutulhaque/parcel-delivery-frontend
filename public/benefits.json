@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Live Parcel Tracking",
+    "description": "Stay updated in real-time with our live parcel tracking feature. From pick-up to delivery, monitor your shipment's journey and get instant status updates for complete peace of mind.",
+    "image":"../src/assets/live-tracking.png"
+  },
+  {
+    "id": 2,
+    "title": "100% Safe Delivery",
+    "description": "We ensure secure and reliable delivery of your parcels. From pick-up to final drop-off, your shipment is handled with care and delivered safely.",
+    "image":"../src/assets/live-tracking.png"
+  },
+  {
+    "id": 3,
+    "title": "24/7 Call Center Support",
+    "description": "Our dedicated support team is available 24/7 to assist you. Get instant help, updates, and answers whenever you need them.",
+    "image":"../src/assets/live-tracking.png"
+  }
+]
