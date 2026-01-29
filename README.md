@@ -1,4 +1,4 @@
-## Used Package
+## Used Packages
 
 -- React awesome component
 -- Carousel (Responsive one)
